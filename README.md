@@ -19,7 +19,7 @@ Here are some useful notes to using this tool brewed with black magic xD !
 4. After few mins the script will spam *SSH* in Terminal , Enjoy !
 
 
-#### Credits and Thanks to People Who Helped me####
+#### Credits and Thanks to People Who Helped me ####
 
 Script Made by [***Aryan Sinha***](https://github.com/techyminati)
 
@@ -28,4 +28,5 @@ Thanks Github For Running this on Github Actions
 
 
 Enjoy With Your SSH Server for free.
+
 Note: This is just for testing and deployment of applications, I do not encourage misuse of Github Actions ! Thanks
